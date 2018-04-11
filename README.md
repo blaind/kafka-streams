@@ -119,6 +119,7 @@ the lib is based on `sinek`, which is based on kafka-node's `ConsumerGroups`
 
 - [x] map
 - [x] asyncMap
+- [x] concatMap
 - [x] constant
 - [x] scan
 - [x] timestamp
